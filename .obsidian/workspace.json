@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Tutorial/SELinux.md",
+                "file": "Linux Tutorial/Understand Linux Distros and Kernel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SELinux"
+              "title": "Understand Linux Distros and Kernel"
             }
           }
         ]
@@ -184,14 +184,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "f22097397cbd762b",
+  "active": "604ff79b6152a316",
   "lastOpenFiles": [
+    "Linux Tutorial/SELinux.md",
+    "Linux Tutorial/Understand Linux Distros and Kernel.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "Linux Tutorial",
     "Resume Explanation.md",
-    "Linux Tutorial/SELinux.md",
     "Resume Points.md",
     "CentOs Stream 9 Installation SOP.md",
-    "Untitled.md",
     "Linux Interview Questions.md",
     "MySQL.md",
     "Untitled.base",
