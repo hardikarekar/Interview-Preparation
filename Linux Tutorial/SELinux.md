@@ -4,9 +4,11 @@
 * Provides additional layer of access control and Mandatory Access Control (MAC) to enhance security.
 
 ## DAC Vs MAC
+
 DAC
 * Discretionary Access Control (DAC)
 * An identity based security model where owner of a resource dictates who can access it and what permissions (read, write, execute) they have.
+
 MAC
 * Mandatory Access Control
 * Is a highly secure, centrally enforced system where OS restricts access to resources based on predefined security labels.
