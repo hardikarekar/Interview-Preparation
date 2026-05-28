@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Tutorial/Understand Linux Distros and Kernel.md",
+                "file": "Linux Tutorial/2. Virtualization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understand Linux Distros and Kernel"
+              "title": "2. Virtualization"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "604ff79b6152a316",
   "lastOpenFiles": [
+    "Linux Tutorial/1. Understand Linux Distros and Kernel.md",
+    "Linux Tutorial/2. Virtualization.md",
     "Linux Tutorial/SELinux.md",
-    "Linux Tutorial/Understand Linux Distros and Kernel.md",
     "Untitled.md",
     "Untitled 1.md",
     "Linux Tutorial",
