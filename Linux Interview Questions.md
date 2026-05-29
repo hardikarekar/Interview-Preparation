@@ -414,13 +414,48 @@ Hardware
 	* `sed -i 's/Linux/Unix/' file1.txt`
 
 29. What is a symbolic link?
-    
+* A symlink or symbolic link is a special file that acts as a pointer or shortcut to another file or directory.
+* Instead of containing actual data, it stores the path to its target.
+* `ln -s /path/to/original /path/to/symlink`
+* Key properties
+	* Has its own inode, separate from the target.
+	* Contains a path string (relative or absolute) rather than data.
+	* Can point to directories not just files.
+	* Can point across filesystems and partitions.
+	* If target is deleted, symlink becomes broken.
+
 30. What is a hard link?
-    
+* A hard link is a directory entry that points to the same inode as another file.
+* `ln /path/to/original /path/to/hardlink`
+* Key properties:
+	* Shares the same inode as the target - they are the same file
+	* Changes to one are instantly visible through the other
+	* Deleting the original doesn't affect the hard link - data persists
+	* Cannot cross filesystems (inodes are filesystem local)
+	* Cannot link to directories (to prevent circular filesystem loops)
+
 31. Difference between hard link and soft link?
-    
+
+| Property                    | Hard Link                                             | Soft Link                               |
+| --------------------------- | ----------------------------------------------------- | --------------------------------------- |
+| Definition                  | A direct reference to the original file's inode       | A shortcut that points to the file path |
+| Inode                       | Shares the same inode as the original file            | Has a different inode                   |
+| If original file is deleted | Still works because data exists through the hard link | Breaks                                  |
+
+
 32. What is inode in Linux?
-    
+* Index node
+* Is a data structure on disk that stores metadata about a file - everything except its name and actual content
+* What an inode stores
+	* Inode number - Unique ID within the filesystem
+	* File Type - Regular file, directory, symlink, etc.
+	* Permissions - Read/write/execute for owner, group, others
+	* Owner - UID and GID
+	* File size - in bytes
+	* Timestamps - Created, modified, accessed
+	* Hard link count - How many directory entries point to this inode
+	* Data block pointers - Where the actual file content lives on disk
+*  
 
 ## Permissions and Ownership
 
