@@ -455,29 +455,67 @@ Hardware
 	* Timestamps - Created, modified, accessed
 	* Hard link count - How many directory entries point to this inode
 	* Data block pointers - Where the actual file content lives on disk
-*  
 
 ## Permissions and Ownership
 
-36. What are file permissions in Linux?
+33. What are file permissions in Linux?
+* File permissions controls who can access a file or directory and what actions they can perform on it.
+* They define
+	* Who can access
+		* Owner (u) - The user who created the file
+		* Group (g) - Users in the same group
+		* Others (o) - Everyone else on the system
+	* What actions they can perform
+		* Read (r) - View/open the file
+		* Write (w) - Modify/edit the file
+		* Execute (x) - Run the file as a program/script
+
+34. Explain read, write, and execute permissions.
+* Read (r)
+	* Allows a user to view the contents.
+		* For files: Can open and read the file.
+		* For directories: Can list files inside the directory.
+* Write (w):
+	* Allows a user to modify or change contents.
+		* For files: Can edit, modify or delete file contents
+		* For directories: Can create, delete or rename files inside that directory
+* Execute (x):
+	* Allows a user to run a file as a program/script.
+		* `./script.sh`
+
+
+34. What is chmod command?
+* chmod (change mode) command is used to change permissions of a file or directory.
+* It allows you to grant or remove read (r), write (w), execute (x) permissions for the owner, group and others.
+* Syntax
+	* `chmod [permissions] filename`
+* Example
+	* Numeric Mode
+		* `chmod 755 script.sh`
+			* Owner =7, Group=5, Others=5
+	* Symbolic Mode
+		* `chmod u+x script.sh`
+			* Adds execute permission to the owner
+		* `chmod g-w file.txt`
+			* Removes write permission from the group
+* Common permission values
+	* 7 - `rwx`, 6 - `rw-`, 5 - `r-x`, 4 - `r--`, 0 - `---`
+
+33. What is chown command?
+
+|
+
+33. What is chgrp command?
     
-37. Explain read, write, and execute permissions.
+34. Explain numeric permissions like 755 and 777.
     
-38. What is chmod command?
+35. What is umask?
     
-39. What is chown command?
+36. What are SUID, SGID, and Sticky Bit?
     
-40. What is chgrp command?
+37. How do you check permissions of a file?
     
-41. Explain numeric permissions like 755 and 777.
-    
-42. What is umask?
-    
-43. What are SUID, SGID, and Sticky Bit?
-    
-44. How do you check permissions of a file?
-    
-45. Why is 777 permission considered risky?
+38. Why is 777 permission considered risky?
     
 
 ## Users and Groups

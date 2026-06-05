@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Interview Questions.md",
+                "file": "MySQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Interview Questions"
+              "title": "MySQL"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f6a1fbbe8a803b57",
@@ -187,16 +186,16 @@
   },
   "active": "604ff79b6152a316",
   "lastOpenFiles": [
+    "Resume Points.md",
+    "Resume Explanation.md",
+    "Linux Interview Questions.md",
     "Linux Tutorial/2. Virtualization.md",
     "Linux Tutorial/1. Understand Linux Distros and Kernel.md",
     "Linux Tutorial/SELinux.md",
     "Untitled.md",
     "Untitled 1.md",
     "Linux Tutorial",
-    "Resume Explanation.md",
-    "Resume Points.md",
     "CentOs Stream 9 Installation SOP.md",
-    "Linux Interview Questions.md",
     "MySQL.md",
     "Untitled.base",
     "Welcome.md"
