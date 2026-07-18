@@ -55,9 +55,17 @@
 * Performed OS and middleware patching activities across Production, UAT, and DR environments with validation and rollback support
 	* Types of patching
 		* Security vulnerability
+			* Fixes security vulnerabilities and protects systems from threats and exploits.
+			* Example: Patching a vulnerability that allows unauthorized access.
 		* Bugs/Issue
+			* Resolves software defects, errors, or functional issues.
+			* Example: Fixing an application crash or login failure.
 		* Performance problems
+			* Improves system speed, resource utilization, and overall performance.
+			* Example: Fixing high CPU or memory usage.
 		* System stability issues
+			* Improves system reliability and prevents crashes, service failures, or unexpected downtime.
+			* Example: Fixing a service that frequently stops unexpectedly.
 	* Update package
 		* `yum update package_name`
 	* Patching tool

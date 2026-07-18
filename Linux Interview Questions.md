@@ -501,21 +501,20 @@ Hardware
 * Common permission values
 	* 7 - `rwx`, 6 - `rw-`, 5 - `r-x`, 4 - `r--`, 0 - `---`
 
-33. What is chown command?
+35. What is chown command?
+* *
 
-|
-
-33. What is chgrp command?
+36. What is chgrp command?
     
-34. Explain numeric permissions like 755 and 777.
+37. Explain numeric permissions like 755 and 777.
     
-35. What is umask?
+38. What is umask?
     
-36. What are SUID, SGID, and Sticky Bit?
+39. What are SUID, SGID, and Sticky Bit?
     
-37. How do you check permissions of a file?
+40. How do you check permissions of a file?
     
-38. Why is 777 permission considered risky?
+41. Why is 777 permission considered risky?
     
 
 ## Users and Groups
