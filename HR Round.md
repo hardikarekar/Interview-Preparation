@@ -1,7 +1,7 @@
 * Good Morning. Thank you for giving me this opportunity.
 * My name is Hardik Arekar. 
 * I have completed my BSc in Information Technology, and I have approximately 11 months of experience in Application Support for Privileged Access Management at ARCON.
-* In my previous company, I worked as a Security Analyst where I supported enterprise clients like Sanasa Bank, CLOUD4C, 
+* In my previous company, I worked as a Security Analyst where I supported enterprise clients like Sanasa Bank, CLOUD4C,  Canara Robeco Asset Management, Mirae Asset, 
 * My responsibilities included
 	* PAM implementation,
 	* PAM version upgrades, 
@@ -17,6 +17,7 @@ Q) Why did you leave your previous organization?
 * Since both my parents were working, I had to take responsibility for looking after her during that difficult time.
 * Unfortunately, my grandmother passed away. It was a difficult period for my family, and I needed to be there for them.
 * Now, I am ready to resume my professional career and focus on my long-term growth in Linux infrastructure, PAM domain and Cloud. I am available to join immediately and am looking forward to this opportunity. [Important] 
+
 Q) What have you been doing since leaving ARCON?
 * During this period, I had family responsibilities to manage. I am now focused on restarting my career and strengthening my technical knowledge in PAM, Linux, networking, and troubleshooting. 
 * I am available to join immediately.
