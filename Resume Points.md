@@ -25,7 +25,7 @@
 - Monitored CPU, memory, and disk utilization, and resolved server performance issues in production environments.
 - Managed package installation, upgrades, and troubleshooting using YUM and RPM package managers.
 - Configured and monitored cron jobs for automation, backups, maintenance, and scheduled tasks.
-- Executed backup and restoration activities for application data, configuration files, and disaster recovery testing.
+- Executed backup and restoration activities for application data, configuration files, and disaster recovery testing. 
 - Assisted in shell scripting support and automation tasks for operational efficiency.
 - Provided production support by handling incidents, alerts, user coordination, and application/server troubleshooting across Linux environments including CentOS, Ubuntu, and RHEL.
 ### Security & VAPT Support
