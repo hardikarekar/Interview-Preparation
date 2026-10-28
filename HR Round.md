@@ -1,7 +1,8 @@
 * Good Morning. Thank you for giving me this opportunity.
 * My name is Hardik Arekar. 
-* I have completed my BSc in Information Technology, and I have approximately 11 months of experience in Application Support for Privileged Access Management at ARCON.
-* In my previous company, I worked as a Security Analyst where I supported enterprise clients like Sanasa Bank, CLOUD4C,  Canara Robeco Asset Management, Mirae Asset, 
+* I have completed my graduation in BSc Information Technology.
+* I have around 11 months of experience in IT security mainly in Privileged Access Management .
+* I worked as a Security Analyst at Arcon where I supported enterprise clients including CLOUD4C,  Canara Robeco Asset Management, Mirae Asset, Kalpataru, and some foreign clients like Exim Bank Malaysia, Sanasa Bank.
 * My responsibilities included
 	* PAM implementation,
 	* PAM version upgrades, 
@@ -9,8 +10,8 @@
 	* session monitoring, 
 	* Vulnerability Remediation,
 	* Client Coordination
-* Through this experience, I developed a good understanding of privileged access security, technical troubleshooting, and production support.
-* I am looking forward to continuing my career in Privileged Access Management, where I can apply my existing technical skills, gain further knowledge, and grow professionally. I am currently available to join immediately.
+* During my professional journey, I have gained experience handling technical challenges, supporting critical environments and working with different teams to resolve issues.
+* I enjoy solving technical problems and I am looking forward to continuing my career in Privileged Access Management, where I can apply my existing technical skills, gain further knowledge, and grow professionally. 
 
 Q) Why did you leave your previous organization? 
 * I left my previous organization because my grandmother was seriously unwell, and my family needed my support at home. [Important]
@@ -28,7 +29,7 @@ Q) Why do you want to join our company?
 * I would also like to learn more and contribute to the team's work.
 
 Q) Why should we hire you?
-* I have practical experience supporting a PAM at ARCON. 
+* I have practical experience supporting PAM at ARCON. 
 * I understand password vaulting, password rotation, user access management, session monitoring, and Linux and Windows troubleshooting. I am willing to learn, follow security procedures, and take responsibility for my work.
 
 Q) What is your current CTC?
@@ -46,7 +47,7 @@ Q) You have a career gap. Why should we consider you?
 
 Q) Where do you see yourself in three years?
 * In the next three years, I want to become a strong PAM professional with deeper technical knowledge and better troubleshooting skills. 
-* I also want to develop my knowledge of cloud technologies, especially AWS, and understand how PAM solutions are implemented and managed in cloud environments. 
+* I also want to develop my knowledge of cloud technologies, especially AWS.
 * My goal is to handle complex issues independently, take on greater responsibilities, and grow professionally within the organization.
 
 Other questions HR may ask
@@ -54,19 +55,19 @@ Q) What are your strengths?
 * Troubleshooting, willingness to learn, understanding of PAM
 
 Q) What is your weakness?
-* You are improving your communication and confidence through regular practice
+* I am improving my communication and confidence through regular practice
 
 Q) Are you comfortable working in shifts?
 * Answer honestly based on your availability
 
 Q) Are you comfortable with production support?
-* Following procedures, checking logs, escalation, and validation
+* Following procedures, checking logs, escalation, and validation.
 
 Q) Are you comfortable working under pressure?
 * Prioritizing incidents, communicating clearly, and avoiding risky changes
 
 Q) Why do you want to work in PAM?
-* Your existing experience and interest in privileged access security
+* Your existing experience and interest in PAM
 
 Q) Do you have any other offers?
 * Answer truthfully
